@@ -1,0 +1,17 @@
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week2\MathQuiz\MathQuiz\bin\Debug\net8.0-windows\MathQuiz.exe
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week2\MathQuiz\MathQuiz\bin\Debug\net8.0-windows\MathQuiz.deps.json
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week2\MathQuiz\MathQuiz\bin\Debug\net8.0-windows\MathQuiz.runtimeconfig.json
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week2\MathQuiz\MathQuiz\bin\Debug\net8.0-windows\MathQuiz.dll
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week2\MathQuiz\MathQuiz\bin\Debug\net8.0-windows\MathQuiz.pdb
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week2\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.Form1.resources
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week2\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.csproj.GenerateResource.cache
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week2\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week2\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week2\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week2\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week2\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.sourcelink.json
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week2\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.dll
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week2\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\refint\MathQuiz.dll
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week2\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.pdb
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week2\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\MathQuiz.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week2\MathQuiz\MathQuiz\obj\Debug\net8.0-windows\ref\MathQuiz.dll
