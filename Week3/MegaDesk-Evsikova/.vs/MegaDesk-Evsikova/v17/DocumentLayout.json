@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\megadesk-evsikova\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|solutionrelative:megadesk-evsikova\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\megadesk-evsikova\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|solutionrelative:megadesk-evsikova\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\megadesk-evsikova\\addquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|solutionrelative:megadesk-evsikova\\addquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week3\\megadesk-evsikova\\megadesk-evsikova\\addquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|solutionrelative:megadesk-evsikova\\addquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week3\\megadesk-evsikova\\megadesk-evsikova\\displayquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|solutionrelative:megadesk-evsikova\\displayquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week3\\megadesk-evsikova\\megadesk-evsikova\\searchquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|solutionrelative:megadesk-evsikova\\searchquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week3\\megadesk-evsikova\\megadesk-evsikova\\displayquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|solutionrelative:megadesk-evsikova\\displayquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week3\\megadesk-evsikova\\megadesk-evsikova\\desk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|solutionrelative:megadesk-evsikova\\desk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week3\\megadesk-evsikova\\megadesk-evsikova\\addquote.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|solutionrelative:megadesk-evsikova\\addquote.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week3\\megadesk-evsikova\\megadesk-evsikova\\deskquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|solutionrelative:megadesk-evsikova\\deskquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week3\\megadesk-evsikova\\megadesk-evsikova\\viewallquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|solutionrelative:megadesk-evsikova\\viewallquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week3\\megadesk-evsikova\\megadesk-evsikova\\searchquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|solutionrelative:megadesk-evsikova\\searchquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week3\\megadesk-evsikova\\megadesk-evsikova\\viewallquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47905C09-1FB5-4DDE-AB21-ADB0C5740A2A}|MegaDesk-Evsikova\\MegaDesk-Evsikova.csproj|solutionrelative:megadesk-evsikova\\viewallquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 278,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DisplayQuote.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\DisplayQuote.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Evsikova\\DisplayQuote.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\DisplayQuote.cs",
+              "RelativeToolTip": "MegaDesk-Evsikova\\DisplayQuote.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAtwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T18:53:56.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Evsikova\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\MainMenu.cs",
+              "RelativeToolTip": "MegaDesk-Evsikova\\MainMenu.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAawBwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:58:40.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddQuote.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\AddQuote.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Evsikova\\AddQuote.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\AddQuote.cs",
+              "RelativeToolTip": "MegaDesk-Evsikova\\AddQuote.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T19:57:46.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddQuote.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\AddQuote.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Evsikova\\AddQuote.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\AddQuote.cs [Design]",
+              "RelativeToolTip": "MegaDesk-Evsikova\\AddQuote.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T17:24:14.918Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DisplayQuote.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\DisplayQuote.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Evsikova\\DisplayQuote.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\DisplayQuote.cs [Design]",
+              "RelativeToolTip": "MegaDesk-Evsikova\\DisplayQuote.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T18:49:56.006Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Evsikova\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\MainMenu.cs [Design]",
+              "RelativeToolTip": "MegaDesk-Evsikova\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:54:50.502Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchQuotes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\SearchQuotes.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Evsikova\\SearchQuotes.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\SearchQuotes.cs [Design]",
+              "RelativeToolTip": "MegaDesk-Evsikova\\SearchQuotes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T19:08:30.42Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Desk.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\Desk.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Evsikova\\Desk.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\Desk.cs",
+              "RelativeToolTip": "MegaDesk-Evsikova\\Desk.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T19:26:25.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddQuote.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\AddQuote.Designer.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Evsikova\\AddQuote.Designer.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\AddQuote.Designer.cs",
+              "RelativeToolTip": "MegaDesk-Evsikova\\AddQuote.Designer.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwGgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T19:58:47.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeskQuote.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\DeskQuote.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Evsikova\\DeskQuote.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\DeskQuote.cs",
+              "RelativeToolTip": "MegaDesk-Evsikova\\DeskQuote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T19:13:36.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewAllQuotes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\ViewAllQuotes.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Evsikova\\ViewAllQuotes.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\ViewAllQuotes.cs [Design]",
+              "RelativeToolTip": "MegaDesk-Evsikova\\ViewAllQuotes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T19:02:07.023Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewAllQuotes.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\ViewAllQuotes.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Evsikova\\ViewAllQuotes.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\ViewAllQuotes.cs",
+              "RelativeToolTip": "MegaDesk-Evsikova\\ViewAllQuotes.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAD4vxUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T19:05:56.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SearchQuotes.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\SearchQuotes.cs",
+              "RelativeDocumentMoniker": "MegaDesk-Evsikova\\SearchQuotes.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week3\\MegaDesk-Evsikova\\MegaDesk-Evsikova\\SearchQuotes.cs",
+              "RelativeToolTip": "MegaDesk-Evsikova\\SearchQuotes.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAD4vxMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T19:10:05.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

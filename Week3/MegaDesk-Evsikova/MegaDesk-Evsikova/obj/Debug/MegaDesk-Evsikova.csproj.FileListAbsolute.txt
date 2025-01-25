@@ -1,0 +1,14 @@
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week3\MegaDesk-Evsikova\MegaDesk-Evsikova\bin\Debug\MegaDesk-Evsikova.exe.config
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week3\MegaDesk-Evsikova\MegaDesk-Evsikova\bin\Debug\MegaDesk-Evsikova.exe
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week3\MegaDesk-Evsikova\MegaDesk-Evsikova\bin\Debug\MegaDesk-Evsikova.pdb
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week3\MegaDesk-Evsikova\MegaDesk-Evsikova\obj\Debug\MegaDesk-Evsikova.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week3\MegaDesk-Evsikova\MegaDesk-Evsikova\obj\Debug\MegaDesk_Evsikova.AddQuote.resources
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week3\MegaDesk-Evsikova\MegaDesk-Evsikova\obj\Debug\MegaDesk_Evsikova.MainMenu.resources
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week3\MegaDesk-Evsikova\MegaDesk-Evsikova\obj\Debug\MegaDesk_Evsikova.Properties.Resources.resources
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week3\MegaDesk-Evsikova\MegaDesk-Evsikova\obj\Debug\MegaDesk-Evsikova.csproj.GenerateResource.cache
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week3\MegaDesk-Evsikova\MegaDesk-Evsikova\obj\Debug\MegaDesk-Evsikova.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week3\MegaDesk-Evsikova\MegaDesk-Evsikova\obj\Debug\MegaDesk-Evsikova.exe
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week3\MegaDesk-Evsikova\MegaDesk-Evsikova\obj\Debug\MegaDesk-Evsikova.pdb
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week3\MegaDesk-Evsikova\MegaDesk-Evsikova\obj\Debug\MegaDesk_Evsikova.DisplayQuote.resources
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week3\MegaDesk-Evsikova\MegaDesk-Evsikova\obj\Debug\MegaDesk_Evsikova.ViewAllQuotes.resources
+C:\Users\Ирина\Desktop\CSE325\Kukla-Irina\CSE325\Week3\MegaDesk-Evsikova\MegaDesk-Evsikova\obj\Debug\MegaDesk_Evsikova.SearchQuotes.resources
