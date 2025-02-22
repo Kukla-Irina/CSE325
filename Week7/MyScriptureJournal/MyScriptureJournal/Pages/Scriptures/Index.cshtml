@@ -1,0 +1,63 @@
+﻿@page
+@model MyScriptureJournal.Pages.Scriptures.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create" class="btn btn-primary">Create New</a>
+</p>
+<form>
+    <section>
+        <label>Book: <input type="text" asp-for="BookSearch" /></label>
+        <label>Notes: <input type="text" asp-for="SearchString" /></label>
+        <input type="submit" class="btn btn-secondary" value="Filter" />
+        <a href="?SortOrder=book&SearchString=@Model.SearchString&BookSearch=@Model.BookSearch" class="btn btn-dark">Sort by Book</a> 
+        <a href="?SortOrder=date&SearchString=@Model.SearchString&BookSearch=@Model.BookSearch" class="btn btn-dark">Sort by Date</a>
+    </section>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Scripture[0].Book)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Scripture[0].Verse)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Scripture[0].DateAdded)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Scripture[0].Notes)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Scripture) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Book)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Verse)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateAdded)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Notes)
+            </td>
+            <td>
+                 <a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-primary">Edit</a>
+                 <a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                 <a asp-page="./Details" asp-route-id="@item.Id" class="btn btn-info">Details</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

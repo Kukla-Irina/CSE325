@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week7\\myscripturejournal\\myscripturejournal\\pages\\scriptures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|solutionrelative:myscripturejournal\\pages\\scriptures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week7\\myscripturejournal\\myscripturejournal\\pages\\scriptures\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|solutionrelative:myscripturejournal\\pages\\scriptures\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week7\\myscripturejournal\\myscripturejournal\\pages\\scriptures\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|solutionrelative:myscripturejournal\\pages\\scriptures\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week7\\myscripturejournal\\myscripturejournal\\models\\scripture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|solutionrelative:myscripturejournal\\models\\scripture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week7\\myscripturejournal\\myscripturejournal\\pages\\scriptures\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|solutionrelative:myscripturejournal\\pages\\scriptures\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week7\\myscripturejournal\\myscripturejournal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|solutionrelative:myscripturejournal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week7\\myscripturejournal\\myscripturejournal\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|solutionrelative:myscripturejournal\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week7\\myscripturejournal\\myscripturejournal\\pages\\scriptures\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|solutionrelative:myscripturejournal\\pages\\scriptures\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week7\\myscripturejournal\\myscripturejournal\\pages\\scriptures\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|solutionrelative:myscripturejournal\\pages\\scriptures\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week7\\myscripturejournal\\myscripturejournal\\pages\\scriptures\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|solutionrelative:myscripturejournal\\pages\\scriptures\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week7\\myscripturejournal\\myscripturejournal\\pages\\scriptures\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|solutionrelative:myscripturejournal\\pages\\scriptures\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week7\\myscripturejournal\\myscripturejournal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|solutionrelative:myscripturejournal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week7\\myscripturejournal\\myscripturejournal\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|solutionrelative:myscripturejournal\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week7\\myscripturejournal\\myscripturejournal\\pages\\scriptures\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|solutionrelative:myscripturejournal\\pages\\scriptures\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week7\\myscripturejournal\\myscripturejournal\\data\\myscripturejournalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|solutionrelative:myscripturejournal\\data\\myscripturejournalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Migrations\\20250222180948_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyScriptureJournal\\Migrations\\20250222180948_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|c:\\users\\\u0438\u0440\u0438\u043D\u0430\\desktop\\cse325\\kukla-irina\\cse325\\week7\\myscripturejournal\\myscripturejournal\\pages\\scriptures\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49688AF-42E4-45AF-9DC4-72AD42726A26}|MyScriptureJournal\\MyScriptureJournal.csproj|solutionrelative:myscripturejournal\\pages\\scriptures\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 278,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Scriptures\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\Pages\\Scriptures\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Scriptures\\Edit.cshtml",
+              "RelativeToolTip": "MyScriptureJournal\\Pages\\Scriptures\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T18:07:31.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MyScriptureJournal\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-22T20:02:22.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyScriptureJournal\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T18:27:17.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Scriptures\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\Pages\\Scriptures\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Scriptures\\Index.cshtml",
+              "RelativeToolTip": "MyScriptureJournal\\Pages\\Scriptures\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T18:07:32.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Scriptures\\Details.cshtml",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\Pages\\Scriptures\\Details.cshtml",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Scriptures\\Details.cshtml",
+              "RelativeToolTip": "MyScriptureJournal\\Pages\\Scriptures\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T18:07:31.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Scriptures\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\Pages\\Scriptures\\Create.cshtml",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Scriptures\\Create.cshtml",
+              "RelativeToolTip": "MyScriptureJournal\\Pages\\Scriptures\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T18:07:31.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Scriptures\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\Pages\\Scriptures\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Scriptures\\Create.cshtml.cs",
+              "RelativeToolTip": "MyScriptureJournal\\Pages\\Scriptures\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:07:31.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scripture.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Models\\Scripture.cs",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\Models\\Scripture.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Models\\Scripture.cs",
+              "RelativeToolTip": "MyScriptureJournal\\Models\\Scripture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:01:11.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Scriptures\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\Pages\\Scriptures\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Scriptures\\Delete.cshtml",
+              "RelativeToolTip": "MyScriptureJournal\\Pages\\Scriptures\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T18:07:32.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Scriptures\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\Pages\\Scriptures\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Scriptures\\Index.cshtml.cs",
+              "RelativeToolTip": "MyScriptureJournal\\Pages\\Scriptures\\Index.cshtml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:07:32.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Scriptures\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\Pages\\Scriptures\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Scriptures\\Details.cshtml.cs",
+              "RelativeToolTip": "MyScriptureJournal\\Pages\\Scriptures\\Details.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:07:31.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Program.cs",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Program.cs",
+              "RelativeToolTip": "MyScriptureJournal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:07:31.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Models\\SeedData.cs",
+              "RelativeToolTip": "MyScriptureJournal\\Models\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:41:56.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Scriptures\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\Pages\\Scriptures\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Scriptures\\Delete.cshtml.cs",
+              "RelativeToolTip": "MyScriptureJournal\\Pages\\Scriptures\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:07:32.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250222180948_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Migrations\\20250222180948_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\Migrations\\20250222180948_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Migrations\\20250222180948_InitialCreate.cs",
+              "RelativeToolTip": "MyScriptureJournal\\Migrations\\20250222180948_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:09:48.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyScriptureJournalContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Data\\MyScriptureJournalContext.cs",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\Data\\MyScriptureJournalContext.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Data\\MyScriptureJournalContext.cs",
+              "RelativeToolTip": "MyScriptureJournal\\Data\\MyScriptureJournalContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:07:31.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Scriptures\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\Pages\\Scriptures\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\CSE325\\Kukla-Irina\\CSE325\\Week7\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Scriptures\\Edit.cshtml.cs",
+              "RelativeToolTip": "MyScriptureJournal\\Pages\\Scriptures\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:07:31.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+﻿@page
+@model MyScriptureJournal.Pages.Scriptures.CreateModel
+
+        @{
+        ViewData["Title"] = "Create";
+        }
+        
+        <h1>Create</h1>
+        
+    <h4>Scripture</h4>
+    <hr />
+    <div class="row">
+    <div class="col-md-4">
+    <form method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <span class="text-danger">*</span>
+                <label asp-for="Scripture.Book" class="control-label"></label>
+                <input asp-for="Scripture.Book" class="form-control" />
+                <span asp-validation-for="Scripture.Book" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <span class="text-danger">*</span>
+                <label asp-for="Scripture.Verse" class="control-label"></label>
+                <input asp-for="Scripture.Verse" class="form-control" />
+                <span asp-validation-for="Scripture.Verse" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Scripture.DateAdded" class="control-label"></label>
+                <input asp-for="Scripture.DateAdded" class="form-control" />
+                <span asp-validation-for="Scripture.DateAdded" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Scripture.Notes" class="control-label"></label>
+                <input asp-for="Scripture.Notes" class="form-control" />
+                <span asp-validation-for="Scripture.Notes" class="text-danger"></span>
+            </div>
+            <div class="pt-3">
+                <input type="submit" value="Create" class="btn btn-primary" /> |
+                <a asp-page="Index" class="btn btn-dark">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
